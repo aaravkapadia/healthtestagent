@@ -1,0 +1,139 @@
+{
+  "call_sid": "CAfdaa57164077830a45a4865f1e578fb7",
+  "scenario": "cancellation",
+  "persona": "Lisa Nguyen, 41, canceling due to conflict",
+  "goal": "Cancel an existing orthopedic follow-up and optionally reschedule",
+  "start_time": "2026-06-29T18:19:35.366009",
+  "transcript": [
+    {
+      "time": "5.3s",
+      "speaker": "AGENT",
+      "text": "This call may be recorded for quality and training purposes."
+    },
+    {
+      "time": "7.1s",
+      "speaker": "PATIENT",
+      "text": "Hi, I'm calling to cancel my appointment this Thursday at 2pm \u2014 I have a work conflict that just came up. I'm so sorry for the short notice!"
+    },
+    {
+      "time": "20.0s",
+      "speaker": "AGENT",
+      "text": "Thanks for calling PivotPoint Orthopaedics. Part of Pretty Good AI. Am I speaking with Sarah?"
+    },
+    {
+      "time": "21.6s",
+      "speaker": "PATIENT",
+      "text": "No, this is Lisa Nguyen \u2014 L-I-S-A N-G-U-Y-E-N. I'm calling to cancel an appointment with Dr. Patel."
+    },
+    {
+      "time": "31.7s",
+      "speaker": "AGENT",
+      "text": "Can you please provide your date of birth?"
+    },
+    {
+      "time": "33.5s",
+      "speaker": "PATIENT",
+      "text": "Sure, it's May 8th, 1983."
+    },
+    {
+      "time": "37.9s",
+      "speaker": "AGENT",
+      "text": "I understand. I still need your date of birth to look up your appointment. Could you please provide it?"
+    },
+    {
+      "time": "39.3s",
+      "speaker": "PATIENT",
+      "text": "It's May 8th, 1983 \u2014 05/08/1983."
+    },
+    {
+      "time": "46.2s",
+      "speaker": "AGENT",
+      "text": "Please tell me your full name and date of birth so I can find your appointment."
+    },
+    {
+      "time": "47.5s",
+      "speaker": "PATIENT",
+      "text": "It's Lisa Nguyen, date of birth May 8th, 1983."
+    },
+    {
+      "time": "54.9s",
+      "speaker": "AGENT",
+      "text": "Thank you. Can you please provide your first name as well?"
+    },
+    {
+      "time": "56.1s",
+      "speaker": "PATIENT",
+      "text": "Lisa \u2014 L-I-S-A."
+    },
+    {
+      "time": "59.8s",
+      "speaker": "AGENT",
+      "text": "I have your last name as Newen?"
+    },
+    {
+      "time": "61.2s",
+      "speaker": "PATIENT",
+      "text": "No, it's Nguyen \u2014 N-G-U-Y-E-N."
+    },
+    {
+      "time": "64.9s",
+      "speaker": "AGENT",
+      "text": "Just"
+    },
+    {
+      "time": "66.6s",
+      "speaker": "PATIENT",
+      "text": "It's Nguyen \u2014 N-G-U-Y-E-N. Is that clearer?"
+    },
+    {
+      "time": "73.7s",
+      "speaker": "AGENT",
+      "text": "Thank you for clarifying. Can you please spell your first name as well just to make sure I have it correct?"
+    },
+    {
+      "time": "75.0s",
+      "speaker": "PATIENT",
+      "text": "Sure, it's L-I-S-A, Lisa."
+    },
+    {
+      "time": "90.3s",
+      "speaker": "AGENT",
+      "text": "I have your name as Lisa Guinn. Date of birth, May eighth nineteen eighty three."
+    },
+    {
+      "time": "91.7s",
+      "speaker": "PATIENT",
+      "text": "The last name is Nguyen, not Guinn \u2014 N-G-U-Y-E-N."
+    },
+    {
+      "time": "97.8s",
+      "speaker": "AGENT",
+      "text": "And your phone number as eight zero five three six zero five four five eight."
+    },
+    {
+      "time": "99.1s",
+      "speaker": "PATIENT",
+      "text": "That's correct, yes."
+    },
+    {
+      "time": "113.7s",
+      "speaker": "AGENT",
+      "text": "I can't proceed further right now, but I can make sure our clinic support team follows up with you. Please hold while I update your request. Connecting you to a representative. Please wait."
+    },
+    {
+      "time": "115.1s",
+      "speaker": "PATIENT",
+      "text": "Okay, thank you, I'll hold."
+    },
+    {
+      "time": "119.1s",
+      "speaker": "AGENT",
+      "text": "Hello. You've reached the Pretty Good AI test line. Goodbye."
+    },
+    {
+      "time": "121.0s",
+      "speaker": "PATIENT",
+      "text": "Oh \u2014 okay, I guess I'll call back to cancel my appointment. Bye."
+    }
+  ]
+}

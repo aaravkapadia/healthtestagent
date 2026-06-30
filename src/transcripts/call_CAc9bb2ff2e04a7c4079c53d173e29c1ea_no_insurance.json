@@ -1,0 +1,89 @@
+{
+  "call_sid": "CAc9bb2ff2e04a7c4079c53d173e29c1ea",
+  "scenario": "no_insurance",
+  "persona": "Alex Rivera, 27, no insurance",
+  "goal": "Ask about self-pay options and pricing for an orthopedic visit",
+  "start_time": "2026-06-29T18:54:37.997921",
+  "transcript": [
+    {
+      "time": "5.1s",
+      "speaker": "AGENT",
+      "text": "This call may be recorded for quality and training purposes."
+    },
+    {
+      "time": "7.1s",
+      "speaker": "PATIENT",
+      "text": "Hi, I'm calling to find out if you guys see self-pay patients \u2014 I don't have insurance right now and I hurt my wrist pretty bad and need to get it checked out."
+    },
+    {
+      "time": "23.0s",
+      "speaker": "AGENT",
+      "text": "Thanks for calling PivotPoint Orthopedics. Part of Pretty Good AI. Am I speaking with Sarah?"
+    },
+    {
+      "time": "24.5s",
+      "speaker": "PATIENT",
+      "text": "No, my name is Alex Rivera, and I'm hoping to get some information about costs before I schedule anything."
+    },
+    {
+      "time": "35.9s",
+      "speaker": "AGENT",
+      "text": "Yes. We do see self pay patients at Pivot Point Orthopedics."
+    },
+    {
+      "time": "39.4s",
+      "speaker": "PATIENT",
+      "text": "That's great to hear \u2014 can you tell me what a new patient visit would cost out of pocket, and roughly what an X-ray would run on top of that?"
+    },
+    {
+      "time": "54.1s",
+      "speaker": "AGENT",
+      "text": "Thanks for letting me know, Alex. I don't have exact pricing details, but I can connect you with our clinic support"
+    },
+    {
+      "time": "56.0s",
+      "speaker": "PATIENT",
+      "text": "Yeah, that would be great, can you transfer me or is there a number I can call directly to get those prices before I commit to coming in?"
+    },
+    {
+      "time": "68.5s",
+      "speaker": "AGENT",
+      "text": "I don't have the exact out of pocket cost"
+    },
+    {
+      "time": "70.3s",
+      "speaker": "PATIENT",
+      "text": "Okay, can you connect me with someone who does have that information, because cost is really the deciding factor for me right now?"
+    },
+    {
+      "time": "82.8s",
+      "speaker": "AGENT",
+      "text": "for a new patient visit or X-ray."
+    },
+    {
+      "time": "84.6s",
+      "speaker": "PATIENT",
+      "text": "Right, so is there a billing department or someone I can speak with who can give me a ballpark before I book an appointment?"
+    },
+    {
+      "time": "88.4s",
+      "speaker": "AGENT",
+      "text": "Connecting you to a representative. Please wait"
+    },
+    {
+      "time": "89.7s",
+      "speaker": "PATIENT",
+      "text": "Sure, I'll hold, thank you."
+    },
+    {
+      "time": "91.2s",
+      "speaker": "AGENT",
+      "text": "Hello. You've reached the Pretty Good AI test line. Goodbye."
+    },
+    {
+      "time": "93.0s",
+      "speaker": "PATIENT",
+      "text": "Oh \u2014 okay, I think I got disconnected or transferred to the wrong place, I'll have to call back."
+    }
+  ]
+}

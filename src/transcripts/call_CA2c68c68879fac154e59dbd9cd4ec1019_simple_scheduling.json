@@ -1,0 +1,109 @@
+{
+  "call_sid": "CA2c68c68879fac154e59dbd9cd4ec1019",
+  "scenario": "simple_scheduling",
+  "persona": "Sarah Chen, 34, first-time patient with mild anxiety",
+  "goal": "Schedule a new patient appointment for ongoing knee pain",
+  "start_time": "2026-06-29T17:59:33.554979",
+  "transcript": [
+    {
+      "time": "5.3s",
+      "speaker": "AGENT",
+      "text": "This call may be recorded for quality and training purposes."
+    },
+    {
+      "time": "6.7s",
+      "speaker": "PATIENT",
+      "text": "Oh, sure, that's totally fine!"
+    },
+    {
+      "time": "12.2s",
+      "speaker": "AGENT",
+      "text": "Thanks for calling PivotPoint Orthopaedics. Part of Pretty Good AI. Am I speaking with Sarah?"
+    },
+    {
+      "time": "13.7s",
+      "speaker": "PATIENT",
+      "text": "Yes, hi, that's me! I'm calling to, um, schedule an appointment as a new patient."
+    },
+    {
+      "time": "27.0s",
+      "speaker": "AGENT",
+      "text": "Please provide your date of birth."
+    },
+    {
+      "time": "28.6s",
+      "speaker": "PATIENT",
+      "text": "Sure, it's March 15th, 1990."
+    },
+    {
+      "time": "43.1s",
+      "speaker": "AGENT",
+      "text": "Thank you. Just to confirm, you'd like to schedule a new patient consultation. Correct?"
+    },
+    {
+      "time": "44.4s",
+      "speaker": "PATIENT",
+      "text": "Yes, exactly, that's right!"
+    },
+    {
+      "time": "56.3s",
+      "speaker": "AGENT",
+      "text": "Do you have a specific provider you'd like to see, or are you open to the first available?"
+    },
+    {
+      "time": "57.9s",
+      "speaker": "PATIENT",
+      "text": "I'm open to whoever's available soonest, I don't really have a preference since I've never been here before."
+    },
+    {
+      "time": "79.4s",
+      "speaker": "AGENT",
+      "text": "We have openings this week and early next week. Do you have a preferred day or time of day for your appointment?"
+    },
+    {
+      "time": "81.0s",
+      "speaker": "PATIENT",
+      "text": "Weekday mornings work great for me, or a Saturday if that's an option!"
+    },
+    {
+      "time": "113.5s",
+      "speaker": "AGENT",
+      "text": "Looks like you already have a new patient consultation appointment booked. If you'd like, I can help you reschedule or cancel that appointment. Or I can connect you to a team member for more help. What would you like to do?"
+    },
+    {
+      "time": "115.9s",
+      "speaker": "PATIENT",
+      "text": "Oh, I think there might be some confusion \u2014 I've never called here before, so I don't think I have an existing appointment. Are you sure that's for me?"
+    },
+    {
+      "time": "143.6s",
+      "speaker": "AGENT",
+      "text": "I understand the confusion. My system shows a new patient consultation already booked under your information. If you'd like, I can connect you to a team member to review this and make sure everything is correct. Would you like me to do that?"
+    },
+    {
+      "time": "145.3s",
+      "speaker": "PATIENT",
+      "text": "Yes, please, that would be great \u2014 I definitely want to make sure everything's sorted out!"
+    },
+    {
+      "time": "157.8s",
+      "speaker": "AGENT",
+      "text": "Connecting you to a representative. Please wait."
+    },
+    {
+      "time": "160.6s",
+      "speaker": "PATIENT",
+      "text": "Oh okay, thank you, I'll hold!"
+    },
+    {
+      "time": "164.0s",
+      "speaker": "AGENT",
+      "text": "Hello. You've reached the Pretty Good AI test line. Goodbye."
+    },
+    {
+      "time": "165.8s",
+      "speaker": "PATIENT",
+      "text": "Oh, um, wait \u2014 I didn't actually get to speak with anyone or book my appointment. Is there someone else I can talk to?"
+    }
+  ]
+}

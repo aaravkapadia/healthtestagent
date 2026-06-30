@@ -1,0 +1,189 @@
+{
+  "call_sid": "CAf109c3f139df82d8b01df3175d0c6f1d",
+  "scenario": "interruption_test",
+  "persona": "David Kim, 38, impatient",
+  "goal": "Test how the agent handles being interrupted mid-sentence",
+  "start_time": "2026-06-29T18:34:36.370156",
+  "transcript": [
+    {
+      "time": "5.1s",
+      "speaker": "AGENT",
+      "text": "This call may be recorded for quality and training purposes."
+    },
+    {
+      "time": "6.7s",
+      "speaker": "PATIENT",
+      "text": "Yeah yeah, I need to book a follow-up with Dr. Patel for my knee."
+    },
+    {
+      "time": "14.1s",
+      "speaker": "AGENT",
+      "text": "Thanks for calling PivotPoint Orthopedics. Part of Pretty Good AI. Am I speaking with Sarah?"
+    },
+    {
+      "time": "15.3s",
+      "speaker": "PATIENT",
+      "text": "No, it's David Kim. Can we just get this scheduled?"
+    },
+    {
+      "time": "20.2s",
+      "speaker": "AGENT",
+      "text": "I don't see a doctor Patel at"
+    },
+    {
+      "time": "21.7s",
+      "speaker": "PATIENT",
+      "text": "Dr. Patel is my surgeon \u2014 she did my ACL surgery a few months ago, she's definitely there."
+    },
+    {
+      "time": "31.1s",
+      "speaker": "AGENT",
+      "text": "Please provide your date of birth."
+    },
+    {
+      "time": "33.0s",
+      "speaker": "PATIENT",
+      "text": "September 3rd, 1986. Can you look her up?"
+    },
+    {
+      "time": "39.1s",
+      "speaker": "AGENT",
+      "text": "I understand. To move forward, I need your date of birth."
+    },
+    {
+      "time": "41.0s",
+      "speaker": "PATIENT",
+      "text": "I just gave it to you \u2014 September 3rd, 1986. Can we move on?"
+    },
+    {
+      "time": "48.7s",
+      "speaker": "AGENT",
+      "text": "I'll need your full name, including your last name."
+    },
+    {
+      "time": "50.5s",
+      "speaker": "PATIENT",
+      "text": "David Kim. D-A-V-I-D K-I-M. Can you find my file now?"
+    },
+    {
+      "time": "58.8s",
+      "speaker": "AGENT",
+      "text": "Thank you. I have your date of birth as September third nineteen eighty six. Please provide your full name including your last name."
+    },
+    {
+      "time": "60.2s",
+      "speaker": "PATIENT",
+      "text": "I already told you, it's David Kim! Are you not hearing me?"
+    },
+    {
+      "time": "78.5s",
+      "speaker": "AGENT",
+      "text": "Just to confirm, your full name is David Kim? And your date of birth is September third nineteen eighty six."
+    },
+    {
+      "time": "79.8s",
+      "speaker": "PATIENT",
+      "text": "Yes, that's correct. Now can we please schedule with Dr. Patel?"
+    },
+    {
+      "time": "86.3s",
+      "speaker": "AGENT",
+      "text": "Is that correct? If so, please spell your first and last name for me."
+    },
+    {
+      "time": "87.8s",
+      "speaker": "PATIENT",
+      "text": "D-A-V-I-D K-I-M. David Kim. Can we move forward please?"
+    },
+    {
+      "time": "94.3s",
+      "speaker": "AGENT",
+      "text": "Would you like me to look up your record using the"
+    },
+    {
+      "time": "96.2s",
+      "speaker": "PATIENT",
+      "text": "Yes, please, look it up \u2014 David Kim, September 3rd, 1986, Kaiser Permanente insurance. Just find my file!"
+    },
+    {
+      "time": "107.9s",
+      "speaker": "AGENT",
+      "text": "I have your name as David Kim? Date of birth,"
+    },
+    {
+      "time": "109.6s",
+      "speaker": "PATIENT",
+      "text": "Yes! That's me. Can you just pull up the file and get me in with Dr. Patel?"
+    },
+    {
+      "time": "116.9s",
+      "speaker": "AGENT",
+      "text": "I can't proceed further right now."
+    },
+    {
+      "time": "118.8s",
+      "speaker": "PATIENT",
+      "text": "Why not? What's the problem? I just need a follow-up appointment, this shouldn't be this complicated."
+    },
+    {
+      "time": "127.3s",
+      "speaker": "AGENT",
+      "text": "I can't proceed further right now."
+    },
+    {
+      "time": "129.0s",
+      "speaker": "PATIENT",
+      "text": "Can I speak to a manager or someone who can actually help me schedule this appointment?"
+    },
+    {
+      "time": "137.8s",
+      "speaker": "AGENT",
+      "text": "Something's not right with the system."
+    },
+    {
+      "time": "139.6s",
+      "speaker": "PATIENT",
+      "text": "Okay, is there a number I can call back at, or can someone call me when it's fixed? I really just need this appointment."
+    },
+    {
+      "time": "150.6s",
+      "speaker": "AGENT",
+      "text": "I can connect you to our patient support team. However, I'm a pretty good"
+    },
+    {
+      "time": "152.4s",
+      "speaker": "PATIENT",
+      "text": "Sure, transfer me over \u2014 I just need to get this booked with Dr. Patel for my ACL follow-up."
+    },
+    {
+      "time": "161.2s",
+      "speaker": "AGENT",
+      "text": "I understand this is important. I'll document"
+    },
+    {
+      "time": "163.6s",
+      "speaker": "PATIENT",
+      "text": "Okay, just make sure they have my name \u2014 David Kim, DOB September 3rd, 1986 \u2014 so I don't have to repeat everything again."
+    },
+    {
+      "time": "176.8s",
+      "speaker": "AGENT",
+      "text": "connecting you to a representative. Please wait."
+    },
+    {
+      "time": "178.0s",
+      "speaker": "PATIENT",
+      "text": "Fine, thank you."
+    },
+    {
+      "time": "180.8s",
+      "speaker": "AGENT",
+      "text": "Hello. You've reached the Pretty Good AI test line. Goodbye."
+    },
+    {
+      "time": "182.8s",
+      "speaker": "PATIENT",
+      "text": "Wait, what? That's it? I just got transferred to a test line? I need to talk to a real person about my appointment!"
+    }
+  ]
+}

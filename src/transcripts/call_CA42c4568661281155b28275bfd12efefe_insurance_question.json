@@ -1,0 +1,169 @@
+{
+  "call_sid": "CA42c4568661281155b28275bfd12efefe",
+  "scenario": "insurance_question",
+  "persona": "James Park, 29, new to the area",
+  "goal": "Confirm Cigna is accepted and ask if an MRI would be covered before booking",
+  "start_time": "2026-06-29T18:14:35.149838",
+  "transcript": [
+    {
+      "time": "5.2s",
+      "speaker": "AGENT",
+      "text": "This call may be recorded for quality and training purposes."
+    },
+    {
+      "time": "7.1s",
+      "speaker": "PATIENT",
+      "text": "Hi there! I'm calling to find out if you guys accept Cigna PPO insurance before I go ahead and schedule an appointment."
+    },
+    {
+      "time": "18.6s",
+      "speaker": "AGENT",
+      "text": "Thanks for calling PivotPoint Orthopaedics. Part of Pretty Good AI. Am I speaking with Sarah?"
+    },
+    {
+      "time": "20.2s",
+      "speaker": "PATIENT",
+      "text": "No, my name is James Park \u2014 I'm a new patient looking to get some information before scheduling."
+    },
+    {
+      "time": "29.2s",
+      "speaker": "AGENT",
+      "text": "Can you please provide your date of birth?"
+    },
+    {
+      "time": "30.8s",
+      "speaker": "PATIENT",
+      "text": "Sure, it's November 30, 1994."
+    },
+    {
+      "time": "35.8s",
+      "speaker": "AGENT",
+      "text": "Please provide your full date of birth, James."
+    },
+    {
+      "time": "37.2s",
+      "speaker": "PATIENT",
+      "text": "November 30, 1994 \u2014 is that not coming through clearly?"
+    },
+    {
+      "time": "45.5s",
+      "speaker": "AGENT",
+      "text": "Just to"
+    },
+    {
+      "time": "49.6s",
+      "speaker": "PATIENT",
+      "text": "Just to what? Sorry, I think you may have gotten cut off there."
+    },
+    {
+      "time": "57.0s",
+      "speaker": "AGENT",
+      "text": "I have your date of birth as November thirtieth nineteen ninety four. Could you please spell your first and last name for me?"
+    },
+    {
+      "time": "59.9s",
+      "speaker": "PATIENT",
+      "text": "Sure, it's J-A-M-E-S, last name P-A-R-K."
+    },
+    {
+      "time": "64.4s",
+      "speaker": "AGENT",
+      "text": "Could you please spell your first and last name for me?"
+    },
+    {
+      "time": "65.9s",
+      "speaker": "PATIENT",
+      "text": "It's J-A-M-E-S, Park is P-A-R-K."
+    },
+    {
+      "time": "81.7s",
+      "speaker": "AGENT",
+      "text": "Thanks for clarifying. You please confirm your first name, last name, and date of birth one more time? Just spell them out for me."
+    },
+    {
+      "time": "83.3s",
+      "speaker": "PATIENT",
+      "text": "Sure \u2014 first name J-A-M-E-S, last name P-A-R-K, date of birth November 30, 1994."
+    },
+    {
+      "time": "110.4s",
+      "speaker": "AGENT",
+      "text": "I have your first name as James. Last name is Park. Date of birth as November thirtieth nineteen ninety four. And your phone number as eight zero five three six zero five four five eight."
+    },
+    {
+      "time": "112.5s",
+      "speaker": "PATIENT",
+      "text": "That phone number isn't mine \u2014 I'm not sure where that came from. Can we get that corrected?"
+    },
+    {
+      "time": "120.6s",
+      "speaker": "AGENT",
+      "text": "Is all of that correct?"
+    },
+    {
+      "time": "122.2s",
+      "speaker": "PATIENT",
+      "text": "The name and date of birth are correct, but that phone number isn't mine \u2014 can we update that?"
+    },
+    {
+      "time": "130.5s",
+      "speaker": "AGENT",
+      "text": "No problem. Could you please provide the phone number you would like us to have on file?"
+    },
+    {
+      "time": "132.4s",
+      "speaker": "PATIENT",
+      "text": "I don't want to give out my number on a recorded line until I know if you accept my insurance \u2014 can we confirm that first?"
+    },
+    {
+      "time": "143.1s",
+      "speaker": "AGENT",
+      "text": "Thanks for confirming. Could you please provide the phone number you want us to use for your record?"
+    },
+    {
+      "time": "144.8s",
+      "speaker": "PATIENT",
+      "text": "I'd actually like to confirm my insurance is accepted before we go any further \u2014 do you take Cigna PPO?"
+    },
+    {
+      "time": "155.4s",
+      "speaker": "AGENT",
+      "text": "I can't check your insurance details right now, but I can connect you to our patient support"
+    },
+    {
+      "time": "157.0s",
+      "speaker": "PATIENT",
+      "text": "That would be great, please go ahead and connect me with patient support so I can confirm the Cigna PPO coverage."
+    },
+    {
+      "time": "168.6s",
+      "speaker": "AGENT",
+      "text": "Pivot Point Orthopedics accepts most insurance plans."
+    },
+    {
+      "time": "170.5s",
+      "speaker": "PATIENT",
+      "text": "That's good to hear, but do you know specifically if Cigna PPO is one of them before I schedule anything?"
+    },
+    {
+      "time": "181.4s",
+      "speaker": "AGENT",
+      "text": "Connecting you to a representative. Please wait."
+    },
+    {
+      "time": "182.7s",
+      "speaker": "PATIENT",
+      "text": "Sure, I'll hold \u2014 thank you!"
+    },
+    {
+      "time": "186.0s",
+      "speaker": "AGENT",
+      "text": "Hello. You've reached the Pretty Good AI test line. Goodbye."
+    },
+    {
+      "time": "188.5s",
+      "speaker": "PATIENT",
+      "text": "Oh \u2014 it sounds like I got disconnected or transferred to the wrong place. I'll try calling back to get my insurance question answered."
+    }
+  ]
+}

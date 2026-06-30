@@ -1,0 +1,149 @@
+{
+  "call_sid": "CAde9a4f56fc31ede2b15891ba26ba0332",
+  "scenario": "post_op_followup",
+  "persona": "Dorothy Williams, 68, recovering from knee replacement",
+  "goal": "Schedule the 6-week post-operative follow-up after knee replacement surgery",
+  "start_time": "2026-06-29T18:09:34.596368",
+  "transcript": [
+    {
+      "time": "5.0s",
+      "speaker": "AGENT",
+      "text": "This call may be recorded for quality and training purposes."
+    },
+    {
+      "time": "6.9s",
+      "speaker": "PATIENT",
+      "text": "Oh, that's perfectly fine, honey!"
+    },
+    {
+      "time": "13.1s",
+      "speaker": "AGENT",
+      "text": "Thanks for calling PivotPoint Orthopedics. Part of Pretty Good AI. Am I speaking with Sarah?"
+    },
+    {
+      "time": "14.7s",
+      "speaker": "PATIENT",
+      "text": "Oh no, my name is Dorothy \u2014 Dorothy Williams. I'm calling to schedule my follow-up appointment after my knee replacement."
+    },
+    {
+      "time": "32.9s",
+      "speaker": "AGENT",
+      "text": "Please provide your full date of birth, Dorothy."
+    },
+    {
+      "time": "34.4s",
+      "speaker": "PATIENT",
+      "text": "Sure, it's January 4th, 1956."
+    },
+    {
+      "time": "48.1s",
+      "speaker": "AGENT",
+      "text": "Just to confirm, I have your name as Dorothy"
+    },
+    {
+      "time": "49.4s",
+      "speaker": "PATIENT",
+      "text": "Yes, that's right, Dorothy Williams!"
+    },
+    {
+      "time": "53.2s",
+      "speaker": "AGENT",
+      "text": "Williams, and your date of birth as January fourth nineteen fifty six. Is that correct?"
+    },
+    {
+      "time": "56.0s",
+      "speaker": "PATIENT",
+      "text": "Yes, that's exactly right!"
+    },
+    {
+      "time": "59.4s",
+      "speaker": "AGENT",
+      "text": "Would you like me to look up your"
+    },
+    {
+      "time": "61.0s",
+      "speaker": "PATIENT",
+      "text": "Yes please, I need to schedule my six-week follow-up with Dr. Anderson after my knee replacement."
+    },
+    {
+      "time": "70.7s",
+      "speaker": "AGENT",
+      "text": "Could you please spell your first and last name for me? This helps make sure I have the correct record."
+    },
+    {
+      "time": "72.4s",
+      "speaker": "PATIENT",
+      "text": "Sure! It's D-O-R-O-T-H-Y, and Williams is W-I-L-L-I-A-M-S."
+    },
+    {
+      "time": "81.3s",
+      "speaker": "AGENT",
+      "text": "I just need you to spell out your first and last name, Dorothy I can find your record."
+    },
+    {
+      "time": "83.0s",
+      "speaker": "PATIENT",
+      "text": "D-O-R-O-T-H-Y W-I-L-L-I-A-M-S."
+    },
+    {
+      "time": "87.9s",
+      "speaker": "AGENT",
+      "text": "Thank you. Could you also spell your first name for me?"
+    },
+    {
+      "time": "89.1s",
+      "speaker": "PATIENT",
+      "text": "It's D-O-R-O-T-H-Y."
+    },
+    {
+      "time": "96.1s",
+      "speaker": "AGENT",
+      "text": "Thank you. Just to confirm, is your first name spelled d o"
+    },
+    {
+      "time": "97.7s",
+      "speaker": "PATIENT",
+      "text": "D-O-R-O-T-H-Y, yes that's correct!"
+    },
+    {
+      "time": "102.2s",
+      "speaker": "AGENT",
+      "text": "r o t h y?"
+    },
+    {
+      "time": "106.7s",
+      "speaker": "PATIENT",
+      "text": "Yes, that's right!"
+    },
+    {
+      "time": "113.0s",
+      "speaker": "AGENT",
+      "text": "Thank you. So your first name is spelled c h y, and your last name is w I l I m s. Is that correct?"
+    },
+    {
+      "time": "115.2s",
+      "speaker": "PATIENT",
+      "text": "Oh no, that's not quite right \u2014 it's D-O-R-O-T-H-Y, and Williams is W-I-L-L-I-A-M-S, with two L's."
+    },
+    {
+      "time": "141.9s",
+      "speaker": "AGENT",
+      "text": "I can't schedule your appointment right now, but I'll connect you to our patient support team so they can help. Please stay on the line. Connecting you to a representative. Please wait."
+    },
+    {
+      "time": "143.6s",
+      "speaker": "PATIENT",
+      "text": "Oh okay, thank you honey, I'll hold!"
+    },
+    {
+      "time": "148.2s",
+      "speaker": "AGENT",
+      "text": "Hello. You've reached the Pretty Good AI test line. Goodbye."
+    },
+    {
+      "time": "150.0s",
+      "speaker": "PATIENT",
+      "text": "Oh my goodness, that doesn't seem right \u2014 I was just trying to schedule a follow-up appointment with Dr. Anderson!"
+    }
+  ]
+}

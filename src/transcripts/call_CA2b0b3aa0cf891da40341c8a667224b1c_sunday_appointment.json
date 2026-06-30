@@ -1,0 +1,169 @@
+{
+  "call_sid": "CA2b0b3aa0cf891da40341c8a667224b1c",
+  "scenario": "sunday_appointment",
+  "persona": "Mike Torres, 45, busy professional",
+  "goal": "Try to book a Sunday appointment to catch bugs in office hours handling",
+  "start_time": "2026-06-29T18:04:34.034817",
+  "transcript": [
+    {
+      "time": "5.3s",
+      "speaker": "AGENT",
+      "text": "This call may be recorded for quality and training purposes."
+    },
+    {
+      "time": "7.5s",
+      "speaker": "PATIENT",
+      "text": "Hi there, I'm calling to schedule an appointment for a shoulder injury \u2014 I hurt it lifting weights and I'd really like to get it checked out as soon as possible."
+    },
+    {
+      "time": "22.4s",
+      "speaker": "AGENT",
+      "text": "Thanks for calling PivotPoint Orthopedics. Part of Pretty Good AI. Am I speaking with Sarah?"
+    },
+    {
+      "time": "24.1s",
+      "speaker": "PATIENT",
+      "text": "No, this is Mike Torres \u2014 I'm a new patient looking to get an appointment for my shoulder."
+    },
+    {
+      "time": "32.8s",
+      "speaker": "AGENT",
+      "text": "Can you please provide your date of birth?"
+    },
+    {
+      "time": "36.6s",
+      "speaker": "PATIENT",
+      "text": "Sure, it's July 22nd, 1979."
+    },
+    {
+      "time": "42.2s",
+      "speaker": "AGENT",
+      "text": "I'll need your date of birth before we can continue. Could you please provide that?"
+    },
+    {
+      "time": "44.3s",
+      "speaker": "PATIENT",
+      "text": "I just gave it to you \u2014 July 22nd, 1979. Did you catch that?"
+    },
+    {
+      "time": "53.2s",
+      "speaker": "AGENT",
+      "text": "Thanks, Mike. Please provide your date of birth as well."
+    },
+    {
+      "time": "54.9s",
+      "speaker": "PATIENT",
+      "text": "That is my date of birth \u2014 July 22nd, 1979. Is there a problem with the system picking it up?"
+    },
+    {
+      "time": "64.9s",
+      "speaker": "AGENT",
+      "text": "Just to confirm, I have your name as Mike tore"
+    },
+    {
+      "time": "67.1s",
+      "speaker": "PATIENT",
+      "text": "It's Torres \u2014 T-O-R-R-E-S. Mike Torres."
+    },
+    {
+      "time": "72.1s",
+      "speaker": "AGENT",
+      "text": "Could you please spell your first and last name for me? Just to make sure I have it correct?"
+    },
+    {
+      "time": "73.9s",
+      "speaker": "PATIENT",
+      "text": "Sure, it's M-I-K-E, Mike, and Torres is T-O-R-R-E-S."
+    },
+    {
+      "time": "80.0s",
+      "speaker": "AGENT",
+      "text": "I have your date of birth as July twenty second nineteen seventy nine. Could you please spell your first and last name for me?"
+    },
+    {
+      "time": "82.1s",
+      "speaker": "PATIENT",
+      "text": "I just spelled it \u2014 Mike, M-I-K-E, Torres, T-O-R-R-E-S. Can we move forward with scheduling?"
+    },
+    {
+      "time": "90.4s",
+      "speaker": "AGENT",
+      "text": "Thank you. Could you please spell your last name, Torres, letter by letter?"
+    },
+    {
+      "time": "92.1s",
+      "speaker": "PATIENT",
+      "text": "T-O-R-R-E-S. Now can we get to scheduling my appointment?"
+    },
+    {
+      "time": "98.6s",
+      "speaker": "AGENT",
+      "text": "Would you like to use your"
+    },
+    {
+      "time": "100.6s",
+      "speaker": "PATIENT",
+      "text": "Yes, I'd like to use my Aetna insurance. And I'm hoping to get a Sunday appointment, ideally around 10am."
+    },
+    {
+      "time": "111.7s",
+      "speaker": "AGENT",
+      "text": "Thanks for spelling that out. Just to confirm, is your last name spelled p o r r e"
+    },
+    {
+      "time": "113.3s",
+      "speaker": "PATIENT",
+      "text": "No, it's T-O-R-R-E-S, Torres \u2014 starts with a T, not a P."
+    },
+    {
+      "time": "121.1s",
+      "speaker": "AGENT",
+      "text": "s or t o r r e s?"
+    },
+    {
+      "time": "123.2s",
+      "speaker": "PATIENT",
+      "text": "T-O-R-R-E-S, Torres \u2014 starts with a T as in Tom."
+    },
+    {
+      "time": "128.4s",
+      "speaker": "AGENT",
+      "text": "Before we continue, can you confirm the correct spelling of your last name? Is it p o r r e s or t o r r e s?"
+    },
+    {
+      "time": "130.2s",
+      "speaker": "PATIENT",
+      "text": "It's T-O-R-R-E-S, T as in Tom. Torres."
+    },
+    {
+      "time": "142.8s",
+      "speaker": "AGENT",
+      "text": "Thank you for clarifying. So your last name is Torres, spelled t o r r e s. Correct? And your date of birth is July twenty second nineteen seventy nine?"
+    },
+    {
+      "time": "144.5s",
+      "speaker": "PATIENT",
+      "text": "That's correct, yes. Now can we look at scheduling a Sunday appointment around 10am?"
+    },
+    {
+      "time": "166.9s",
+      "speaker": "AGENT",
+      "text": "I can't proceed further right now, but I can make sure our clinic support team follows up with you. Please hold while I connect you to our patient support team. Connecting you to a representative. Please wait."
+    },
+    {
+      "time": "168.5s",
+      "speaker": "PATIENT",
+      "text": "Okay, I'll hold, but I do want to make sure someone can help me get that Sunday appointment scheduled today."
+    },
+    {
+      "time": "179.9s",
+      "speaker": "AGENT",
+      "text": "Hello. You've reached the Pretty Good AI test line. Goodbye."
+    },
+    {
+      "time": "182.0s",
+      "speaker": "PATIENT",
+      "text": "Oh - that doesn't seem right, I was just trying to schedule an appointment at Pivot Point Orthopaedics. I may need to call back and try again."
+    }
+  ]
+}

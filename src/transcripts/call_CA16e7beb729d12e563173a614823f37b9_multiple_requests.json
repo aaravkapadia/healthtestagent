@@ -1,0 +1,99 @@
+{
+  "call_sid": "CA16e7beb729d12e563173a614823f37b9",
+  "scenario": "multiple_requests",
+  "persona": "Patricia Lee, 60, efficient",
+  "goal": "Handle multiple tasks in one call \u2014 reschedule + physical therapy",
+  "start_time": "2026-06-29T18:49:37.389819",
+  "transcript": [
+    {
+      "time": "5.0s",
+      "speaker": "AGENT",
+      "text": "This call may be recorded for quality and training purposes."
+    },
+    {
+      "time": "6.7s",
+      "speaker": "PATIENT",
+      "text": "Hi, I'm calling with two things to take care of \u2014 I need to reschedule a follow-up appointment, and I have a question about physical therapy. Can you help me with both?"
+    },
+    {
+      "time": "21.9s",
+      "speaker": "AGENT",
+      "text": "Thanks for calling PivotPoint Orthopedics. Part of Pretty Good AI. Am I speaking with Sarah?"
+    },
+    {
+      "time": "23.6s",
+      "speaker": "PATIENT",
+      "text": "No, this is Patricia Lee \u2014 date of birth October 12, 1964, and I'm a patient of Dr. Williams."
+    },
+    {
+      "time": "34.6s",
+      "speaker": "AGENT",
+      "text": "Can you please provide your date of birth?"
+    },
+    {
+      "time": "36.2s",
+      "speaker": "PATIENT",
+      "text": "Sure, it's October 12, 1964."
+    },
+    {
+      "time": "41.5s",
+      "speaker": "AGENT",
+      "text": "Just to confirm, I have your name as Patricia Lee, and your date of birth"
+    },
+    {
+      "time": "42.7s",
+      "speaker": "PATIENT",
+      "text": "That's correct, Patricia Lee, October 12, 1964."
+    },
+    {
+      "time": "50.2s",
+      "speaker": "AGENT",
+      "text": "Could you please spell your first and last name for me?"
+    },
+    {
+      "time": "52.0s",
+      "speaker": "PATIENT",
+      "text": "Sure, it's P-A-T-R-I-C-I-A, and Lee is L-E-E."
+    },
+    {
+      "time": "57.9s",
+      "speaker": "AGENT",
+      "text": "I have"
+    },
+    {
+      "time": "59.1s",
+      "speaker": "PATIENT",
+      "text": "Okay, go ahead."
+    },
+    {
+      "time": "62.9s",
+      "speaker": "AGENT",
+      "text": "I can't"
+    },
+    {
+      "time": "64.2s",
+      "speaker": "PATIENT",
+      "text": "I'm sorry, it sounds like you may be having some trouble \u2014 can you hear me okay?"
+    },
+    {
+      "time": "77.7s",
+      "speaker": "AGENT",
+      "text": "I can't proceed further right now, but I'll make sure our clinics support team follows up with you. Please hold while I document your request. Connecting you to a representative. Please wait."
+    },
+    {
+      "time": "79.0s",
+      "speaker": "PATIENT",
+      "text": "Sure, I'll hold, thank you."
+    },
+    {
+      "time": "82.5s",
+      "speaker": "AGENT",
+      "text": "Hello. You've reached the Pretty Good AI test line. Goodbye."
+    },
+    {
+      "time": "85.2s",
+      "speaker": "PATIENT",
+      "text": "Oh \u2014 okay, it seems like I got disconnected from the actual office. I'll need to call Pivot Point Orthopaedics back directly to handle my two requests."
+    }
+  ]
+}

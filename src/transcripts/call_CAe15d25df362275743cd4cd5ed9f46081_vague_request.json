@@ -1,0 +1,209 @@
+{
+  "call_sid": "CAe15d25df362275743cd4cd5ed9f46081",
+  "scenario": "vague_request",
+  "persona": "Carol Stevens, 55, not sure what she needs",
+  "goal": "Test how the agent handles ambiguous patient intent",
+  "start_time": "2026-06-29T18:29:36.190741",
+  "transcript": [
+    {
+      "time": "8.9s",
+      "speaker": "AGENT",
+      "text": "This call may be recorded for quality and training purposes."
+    },
+    {
+      "time": "10.7s",
+      "speaker": "PATIENT",
+      "text": "Oh okay, that's fine I guess. I'm just calling because my body's been really achy lately and I'm not sure what to do about it."
+    },
+    {
+      "time": "22.1s",
+      "speaker": "AGENT",
+      "text": "Thanks for calling Goodthe Point Orthopaedics. Part of Pretty Good a am I speaking with Sarah?"
+    },
+    {
+      "time": "24.0s",
+      "speaker": "PATIENT",
+      "text": "No, it's Carol \u2014 Carol Stevens. And I'm just not feeling right, everything just hurts and I don't really know where to start."
+    },
+    {
+      "time": "36.4s",
+      "speaker": "AGENT",
+      "text": "Please provide your date of birth."
+    },
+    {
+      "time": "37.7s",
+      "speaker": "PATIENT",
+      "text": "Sure, it's February 14th, 1969."
+    },
+    {
+      "time": "42.4s",
+      "speaker": "AGENT",
+      "text": "I need your date of birth to continue. Could you please tell me your date of birth?"
+    },
+    {
+      "time": "48.3s",
+      "speaker": "PATIENT",
+      "text": "I just said it \u2014 February 14th, 1969. Did you not hear me?"
+    },
+    {
+      "time": "55.7s",
+      "speaker": "AGENT",
+      "text": "Please provide your date of birth as well."
+    },
+    {
+      "time": "57.0s",
+      "speaker": "PATIENT",
+      "text": "It's February 14th, 1969. Is something wrong with your system?"
+    },
+    {
+      "time": "65.2s",
+      "speaker": "AGENT",
+      "text": "How can I"
+    },
+    {
+      "time": "66.7s",
+      "speaker": "PATIENT",
+      "text": "I'm sorry, it sounds like you might be having some technical trouble? I'm just calling because everything aches and I wanted to make an appointment."
+    },
+    {
+      "time": "81.1s",
+      "speaker": "AGENT",
+      "text": "Just to confirm, I have your name as Carol Stevens, and your date of birth is February fourteenth?"
+    },
+    {
+      "time": "82.5s",
+      "speaker": "PATIENT",
+      "text": "Yes, that's right, February 14th, 1969."
+    },
+    {
+      "time": "88.8s",
+      "speaker": "AGENT",
+      "text": "Thank you. Could you please spell your first and last name for me?"
+    },
+    {
+      "time": "90.7s",
+      "speaker": "PATIENT",
+      "text": "Sure, it's C-A-R-O-L, and Stevens is S-T-E-V-E-N-S."
+    },
+    {
+      "time": "96.0s",
+      "speaker": "AGENT",
+      "text": "Could you please spell your first and last name for me?"
+    },
+    {
+      "time": "97.6s",
+      "speaker": "PATIENT",
+      "text": "I just did \u2014 C-A-R-O-L, S-T-E-V-E-N-S. Are you having trouble hearing me?"
+    },
+    {
+      "time": "105.2s",
+      "speaker": "AGENT",
+      "text": "Let me help you schedule an appointment. Could you please"
+    },
+    {
+      "time": "106.9s",
+      "speaker": "PATIENT",
+      "text": "Oh yes, I'd like that, I just really need to see someone because my joints have been bothering me something awful."
+    },
+    {
+      "time": "118.5s",
+      "speaker": "AGENT",
+      "text": "thanks for confirming. Could you please spell your first and last"
+    },
+    {
+      "time": "120.2s",
+      "speaker": "PATIENT",
+      "text": "It's C-A-R-O-L S-T-E-V-E-N-S, same as before \u2014 is everything okay on your end?"
+    },
+    {
+      "time": "129.2s",
+      "speaker": "AGENT",
+      "text": "I have your name as Carol Stevens. Your date"
+    },
+    {
+      "time": "131.0s",
+      "speaker": "PATIENT",
+      "text": "Yes that's me, Carol Stevens, February 14th, 1969. Can we maybe move on to getting me an appointment?"
+    },
+    {
+      "time": "142.4s",
+      "speaker": "AGENT",
+      "text": "I can't proceed further right now. But I can make sure our clinic"
+    },
+    {
+      "time": "144.4s",
+      "speaker": "PATIENT",
+      "text": "Oh, okay... so does that mean I can't get an appointment today? I'm just really uncomfortable and I was hoping to get seen soon."
+    },
+    {
+      "time": "156.6s",
+      "speaker": "AGENT",
+      "text": "Something's not right on my end."
+    },
+    {
+      "time": "158.3s",
+      "speaker": "PATIENT",
+      "text": "Oh dear, okay. Should I call back or wait on the line? I just really need to see someone about all this aching."
+    },
+    {
+      "time": "168.7s",
+      "speaker": "AGENT",
+      "text": "I'm having trouble verifying your information right now."
+    },
+    {
+      "time": "170.4s",
+      "speaker": "PATIENT",
+      "text": "Well I've given you my name and birthday several times now \u2014 is there someone else I can speak with maybe?"
+    },
+    {
+      "time": "179.5s",
+      "speaker": "AGENT",
+      "text": "I can't schedule your"
+    },
+    {
+      "time": "181.2s",
+      "speaker": "PATIENT",
+      "text": "Oh that's frustrating. Can I speak to a supervisor or someone else who might be able to help me?"
+    },
+    {
+      "time": "190.7s",
+      "speaker": "AGENT",
+      "text": "Please stay on the line."
+    },
+    {
+      "time": "192.1s",
+      "speaker": "PATIENT",
+      "text": "Okay, I'll hold. I just hope someone can help me soon."
+    },
+    {
+      "time": "197.0s",
+      "speaker": "AGENT",
+      "text": "I can connect you to our patient support team. However, on the pretty good"
+    },
+    {
+      "time": "198.6s",
+      "speaker": "PATIENT",
+      "text": "Okay sure, yes, please connect me, I just want to get this sorted out and make an appointment."
+    },
+    {
+      "time": "208.6s",
+      "speaker": "AGENT",
+      "text": "Connecting you to a representative. Please wait."
+    },
+    {
+      "time": "209.9s",
+      "speaker": "PATIENT",
+      "text": "Okay, thank you, I'll hold."
+    },
+    {
+      "time": "213.8s",
+      "speaker": "AGENT",
+      "text": "Hello. You've reached the Pretty Good AI test line. Goodbye."
+    },
+    {
+      "time": "216.0s",
+      "speaker": "PATIENT",
+      "text": "Oh \u2014 wait, what? I think I've got the wrong number then, I was trying to reach the orthopaedics office about my achy joints."
+    }
+  ]
+}

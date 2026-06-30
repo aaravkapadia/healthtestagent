@@ -1,0 +1,139 @@
+{
+  "call_sid": "CA86dee0f0a4dd47ecea814d68cbfab73d",
+  "scenario": "urgent_same_day",
+  "persona": "Tom Bradley, 52, just injured himself",
+  "goal": "Request a same-day appointment for an acute ankle injury",
+  "start_time": "2026-06-29T18:24:35.707313",
+  "transcript": [
+    {
+      "time": "5.2s",
+      "speaker": "AGENT",
+      "text": "This call may be recorded for quality and training purposes."
+    },
+    {
+      "time": "7.3s",
+      "speaker": "PATIENT",
+      "text": "Hi, yes, I rolled my ankle pretty badly about an hour ago on a curb and it's pretty swollen \u2014 I'm hoping you might be able to fit me in today to get it looked at."
+    },
+    {
+      "time": "19.7s",
+      "speaker": "AGENT",
+      "text": "Thanks for calling PivotPoint Orthopaedics."
+    },
+    {
+      "time": "21.8s",
+      "speaker": "PATIENT",
+      "text": "Oh good, yes \u2014 I was hoping to get seen today if at all possible, it's swollen and I'm having trouble putting weight on it."
+    },
+    {
+      "time": "33.3s",
+      "speaker": "AGENT",
+      "text": "Part of Pretty Good AI. Am I speaking with Sarah?"
+    },
+    {
+      "time": "35.0s",
+      "speaker": "PATIENT",
+      "text": "No, this is Tom Bradley \u2014 I'm calling because I hurt my ankle and was hoping to get an appointment today."
+    },
+    {
+      "time": "44.3s",
+      "speaker": "AGENT",
+      "text": "Can you please provide your date of birth?"
+    },
+    {
+      "time": "45.9s",
+      "speaker": "PATIENT",
+      "text": "Sure, it's August 19th, 1972."
+    },
+    {
+      "time": "51.4s",
+      "speaker": "AGENT",
+      "text": "I understand. Can you tell me your date of birth?"
+    },
+    {
+      "time": "52.7s",
+      "speaker": "PATIENT",
+      "text": "It's August 19th, 1972 \u2014 August 19, 1972."
+    },
+    {
+      "time": "59.8s",
+      "speaker": "AGENT",
+      "text": "Please provide your full name and date of birth."
+    },
+    {
+      "time": "60.9s",
+      "speaker": "PATIENT",
+      "text": "Tom Bradley, August 19th, 1972."
+    },
+    {
+      "time": "66.9s",
+      "speaker": "AGENT",
+      "text": "Thank you. Can you please confirm your full name first and last?"
+    },
+    {
+      "time": "68.5s",
+      "speaker": "PATIENT",
+      "text": "Tom Bradley \u2014 T-O-M, Bradley, B-R-A-D-L-E-Y."
+    },
+    {
+      "time": "73.3s",
+      "speaker": "AGENT",
+      "text": "Just to confirm,"
+    },
+    {
+      "time": "75.1s",
+      "speaker": "PATIENT",
+      "text": "Yes, that's right \u2014 Tom Bradley."
+    },
+    {
+      "time": "78.4s",
+      "speaker": "AGENT",
+      "text": "Would you like"
+    },
+    {
+      "time": "79.8s",
+      "speaker": "PATIENT",
+      "text": "Yes, I'd like to be seen today if possible \u2014 would you have any appointments available?"
+    },
+    {
+      "time": "88.6s",
+      "speaker": "AGENT",
+      "text": "I have"
+    },
+    {
+      "time": "90.7s",
+      "speaker": "PATIENT",
+      "text": "Great, what do you have available?"
+    },
+    {
+      "time": "96.0s",
+      "speaker": "AGENT",
+      "text": "I can't proceed further right now."
+    },
+    {
+      "time": "97.6s",
+      "speaker": "PATIENT",
+      "text": "Oh, okay \u2014 if you can't get me in today, should I go to urgent care or get an X-ray somewhere first?"
+    },
+    {
+      "time": "106.0s",
+      "speaker": "AGENT",
+      "text": "Connecting you to a representative. Please wait."
+    },
+    {
+      "time": "107.8s",
+      "speaker": "PATIENT",
+      "text": "Sure, I'll hold, thank you."
+    },
+    {
+      "time": "111.1s",
+      "speaker": "AGENT",
+      "text": "Hello. You've reached the Pretty Good AI test line. Goodbye."
+    },
+    {
+      "time": "113.0s",
+      "speaker": "PATIENT",
+      "text": "Oh \u2014 okay, I think I may have reached the wrong number. I'll try calling Pivot Point Orthopaedics back directly."
+    }
+  ]
+}

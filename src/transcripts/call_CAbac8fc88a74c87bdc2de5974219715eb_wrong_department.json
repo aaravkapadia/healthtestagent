@@ -1,0 +1,199 @@
+{
+  "call_sid": "CAbac8fc88a74c87bdc2de5974219715eb",
+  "scenario": "wrong_department",
+  "persona": "Helen Morris, 72, confused",
+  "goal": "Test how the agent handles a caller asking for non-orthopedic care",
+  "start_time": "2026-06-29T18:39:37.061750",
+  "transcript": [
+    {
+      "time": "5.1s",
+      "speaker": "AGENT",
+      "text": "This call may be recorded for quality and training purposes."
+    },
+    {
+      "time": "6.7s",
+      "speaker": "PATIENT",
+      "text": "Oh hello, yes, I'd like to make an appointment for my annual physical, just my regular checkup?"
+    },
+    {
+      "time": "15.3s",
+      "speaker": "AGENT",
+      "text": "Thanks for calling PivotPoint Orthopaedics. Part of Pretty Good AI. Am I speaking with Sarah?"
+    },
+    {
+      "time": "17.1s",
+      "speaker": "PATIENT",
+      "text": "No, no, my name is Helen... Helen Morris. And did you say this is an orthopedic office? I think I may have dialed the wrong number."
+    },
+    {
+      "time": "28.5s",
+      "speaker": "AGENT",
+      "text": "Can you please provide your date of birth?"
+    },
+    {
+      "time": "30.1s",
+      "speaker": "PATIENT",
+      "text": "Oh, yes, it's June 22nd, 1952."
+    },
+    {
+      "time": "34.6s",
+      "speaker": "AGENT",
+      "text": "Please provide your date of birth as well."
+    },
+    {
+      "time": "36.3s",
+      "speaker": "PATIENT",
+      "text": "I just... I just gave it to you, dear. June 22nd, 1952. Did you not hear me?"
+    },
+    {
+      "time": "44.9s",
+      "speaker": "AGENT",
+      "text": "Just to confirm,"
+    },
+    {
+      "time": "46.1s",
+      "speaker": "PATIENT",
+      "text": "Yes? Go ahead, I'm listening."
+    },
+    {
+      "time": "51.2s",
+      "speaker": "AGENT",
+      "text": "Thank you. Can you please spell your first and last name for me?"
+    },
+    {
+      "time": "52.7s",
+      "speaker": "PATIENT",
+      "text": "Yes, it's Helen, H-E-L-E-N, and Morris, M-O-R-R-I-S."
+    },
+    {
+      "time": "75.6s",
+      "speaker": "AGENT",
+      "text": "Would you like me to look up your record using your phone number? If so, please provide the number you have on file with us. You're not sure, I can confirm your name and date of birth again. Which would you prefer?"
+    },
+    {
+      "time": "77.6s",
+      "speaker": "PATIENT",
+      "text": "Well, I don't think I'd have a record there since I've never called an orthopedic place before. I think I may have just dialed the wrong number by mistake."
+    },
+    {
+      "time": "99.2s",
+      "speaker": "AGENT",
+      "text": "Thanks for letting me know. Since you may not have a record here yet, I'll note your information for a new appointment. Would you like to continue scheduling your annual physical?"
+    },
+    {
+      "time": "101.8s",
+      "speaker": "PATIENT",
+      "text": "Well, that's the thing, I don't think you do annual physicals there, do you? But actually, now that I have you on the line, my knees have been giving me quite a bit of trouble on the stairs lately. Is that something you could help me with?"
+    },
+    {
+      "time": "123.8s",
+      "speaker": "AGENT",
+      "text": "Since you haven't been here before,"
+    },
+    {
+      "time": "125.3s",
+      "speaker": "PATIENT",
+      "text": "Yes, that's right, I'm a new patient. Would knee pain be something an orthopedic doctor handles?"
+    },
+    {
+      "time": "135.2s",
+      "speaker": "AGENT",
+      "text": "You're right. Pivot Point Orthopedics focuses on orthopedic care, not general annual physicals. Would you like help with an orthopedic or need information about another technical appointment?"
+    },
+    {
+      "time": "137.3s",
+      "speaker": "PATIENT",
+      "text": "Yes, I think I'd like to make an appointment for my knees then, if that's something you can help me with."
+    },
+    {
+      "time": "146.4s",
+      "speaker": "AGENT",
+      "text": "Thanks for clarifying. Are you looking to schedule an appointment for an orthopedic issue like joint pain or injury? Let me know what you'd like help with."
+    },
+    {
+      "time": "148.7s",
+      "speaker": "PATIENT",
+      "text": "Yes, it's my knees, both of them really, they ache when I go up and down the stairs. Can I make an appointment for that?"
+    },
+    {
+      "time": "160.7s",
+      "speaker": "AGENT",
+      "text": "Can you tell me a bit about your orthopedic concern or what's bothering you? That way, I can help find the right appointment for you."
+    },
+    {
+      "time": "162.7s",
+      "speaker": "PATIENT",
+      "text": "Well, like I said, it's my knees, they've been aching on the stairs, and sometimes just walking around too. It's been going on for a few months now."
+    },
+    {
+      "time": "175.3s",
+      "speaker": "AGENT",
+      "text": "Please describe your ortho issue or the reason you'd like to be seen."
+    },
+    {
+      "time": "181.4s",
+      "speaker": "PATIENT",
+      "text": "It's my knees, dear, both of them ache, especially on the stairs. I've already told you this a couple of times now."
+    },
+    {
+      "time": "192.0s",
+      "speaker": "AGENT",
+      "text": "Yes. You can make an appointment for your orthopedic concern. What specific issue or pain are you experiencing? This helps we find the best provider and appointment for you."
+    },
+    {
+      "time": "193.7s",
+      "speaker": "PATIENT",
+      "text": "It's knee pain, in both knees, that's my concern. Can we just go ahead and make the appointment?"
+    },
+    {
+      "time": "204.0s",
+      "speaker": "AGENT",
+      "text": "Are you having pain or difficulty when walking? Can you share where you feel discomfort, like your knee, hip, or foot?"
+    },
+    {
+      "time": "206.2s",
+      "speaker": "PATIENT",
+      "text": "It's my knees, both of them, and yes it hurts when I walk and especially on the stairs."
+    },
+    {
+      "time": "215.2s",
+      "speaker": "AGENT",
+      "text": "Thank you for sharing that. Would you prefer a morning or afternoon appointment for your knee concern?"
+    },
+    {
+      "time": "216.8s",
+      "speaker": "PATIENT",
+      "text": "Oh, morning would be better for me, I'm more of a morning person."
+    },
+    {
+      "time": "223.6s",
+      "speaker": "AGENT",
+      "text": "Understood. Do you have a preferred day or time of day for your appointment?"
+    },
+    {
+      "time": "225.3s",
+      "speaker": "PATIENT",
+      "text": "Morning is fine, any day really, I'm pretty flexible."
+    },
+    {
+      "time": "230.6s",
+      "speaker": "AGENT",
+      "text": "Thank you for explaining. Would you like to come in this week or early next week? Do you prefer mornings or afternoons?"
+    },
+    {
+      "time": "232.6s",
+      "speaker": "PATIENT",
+      "text": "This week would be wonderful if you have something, and mornings please."
+    },
+    {
+      "time": "240.8s",
+      "speaker": "AGENT",
+      "text": "We have morning openings this week and early next week. Would you like the earliest available morning appointment?"
+    },
+    {
+      "time": "242.3s",
+      "speaker": "PATIENT",
+      "text": "Yes please, the earliest you have would be just fine."
+    }
+  ]
+}
