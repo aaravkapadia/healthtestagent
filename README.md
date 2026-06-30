@@ -1,6 +1,6 @@
-# Voice Bot — PrettyGood AI Engineering Challenge
+# Voice Agent for AI Engineering Challenge
 
-An automated voice bot that calls the test line and simulates realistic patient conversations to find bugs in the AI agent.
+An automated voice agent that calls the test line and simulates realistic patient conversations to find bugs in the AI agent.
 
 ## Architecture
 
