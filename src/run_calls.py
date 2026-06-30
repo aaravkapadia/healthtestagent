@@ -1,12 +1,3 @@
-"""
-Call Runner
-Initiates outbound calls via Twilio for each scenario.
-Usage:
-    python run_calls.py --scenario simple_scheduling
-    python run_calls.py --all
-    python run_calls.py --scenario sunday_appointment medication_refill
-"""
-
 import argparse
 import os
 import time

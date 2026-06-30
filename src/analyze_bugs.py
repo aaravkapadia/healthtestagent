@@ -72,7 +72,6 @@ Respond in JSON format only, with this structure:
       "details": "A clear narrative: quote what the agent actually said, explain why it's a problem, and state what it should have done instead. Write it like the example below."
     }}
   ],
-  "overall_quality": "excellent|good|fair|poor",
   "summary": "1-2 sentence summary of agent performance in this call"
 }}
 
@@ -127,7 +126,6 @@ def generate_bug_report(transcripts_dir: str = "transcripts", output_file: str =
             call_summaries.append({
                 "scenario": t["scenario"],
                 "file": t["filename"],
-                "quality": result.get("overall_quality", "unknown"),
                 "summary": result.get("summary", ""),
                 "bug_count": len(bugs),
             })
@@ -143,10 +141,10 @@ def generate_bug_report(transcripts_dir: str = "transcripts", output_file: str =
         f.write(f"Total bugs found: {len(all_bugs)}\n\n")
 
         f.write("## Call Summary\n\n")
-        f.write("| Scenario | Quality | Bugs | File |\n")
-        f.write("|----------|---------|------|------|\n")
+        f.write("| Scenario | Bugs | File |\n")
+        f.write("|----------|------|------|\n")
         for s in call_summaries:
-            f.write(f"| {s['scenario']} | {s['quality']} | {s['bug_count']} | {s['file']} |\n")
+            f.write(f"| {s['scenario']} | {s['bug_count']} | {s['file']} |\n")
 
         for severity in ["high", "medium", "low"]:
             severity_bugs = [b for b in all_bugs if b.get("severity") == severity]

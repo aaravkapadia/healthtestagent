@@ -1,10 +1,3 @@
-"""
-Voice Bot Server
-FastAPI server that handles Twilio Media Streams via WebSocket.
-Receives audio from the call, transcribes via Deepgram, generates
-patient responses via Claude, and speaks back via OpenAI TTS.
-"""
-
 import asyncio
 import base64
 import json
