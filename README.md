@@ -44,7 +44,7 @@ Copy the `https://xxxx.ngrok.io` URL and set it in `.env`:
 PUBLIC_URL=https://xxxx.ngrok.io
 ```
 
-### 4. Start the server
+### 4. Start the server in a NEW terminal window
 
 The application code lives in `src/`, and the modules import each other by
 bare name (e.g. `from scenarios import ...`), so run everything from inside
@@ -55,7 +55,7 @@ cd src
 python server.py
 ```
 
-## Running Calls
+## Running Calls(run from another NEW terminal window)
 
 Run these from the `src/` directory as well.
 
